@@ -15,7 +15,7 @@ namespace ng2Mvc5Demo.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "snjv Your application description page.";
 
             return View();
         }
